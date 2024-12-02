@@ -3,7 +3,7 @@ import styled from 'styled-components'
 
 const Document = styled.img`
     display: none;
-    height: 70px;
+    height: 50px;
     width: fit-content;
     background-color: #000;
     border-radius: 10px;
@@ -176,7 +176,7 @@ const ExperienceCard = ({ experience }) => {
             </Description>
             {experience.doc &&
                 <a href={experience.doc} target="new">
-                    <Document src={experience.doc} />
+                    <Document src={experience.docImage} />
                 </a>
             }
         </Card>

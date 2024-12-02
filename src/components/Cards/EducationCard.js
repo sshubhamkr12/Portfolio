@@ -3,7 +3,7 @@ import styled from 'styled-components'
 
 const Document = styled.img`
     display: none;
-    height: 70px;
+    height: 50px;
     width: fit-content;
     background-color: #000;
     border-radius: 10px;
@@ -143,6 +143,9 @@ const EducationCard = ({ education }) => {
             <Description>
                 <Span>{education.desc}</Span>
             </Description>
+            <a href={education.doc} target="new">
+                <Document src={education.docImage} />
+            </a>
         </Card>
     )
 }
