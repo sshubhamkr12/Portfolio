@@ -15,7 +15,7 @@ export const Bio = {
       "Analytical and detail-oriented Software Developer Intern with a BE in Computer Science and hands-on experience in developing and deploying robust web applications using JavaScript, React.js, Spring Boot, and Java. Proficient in collaborating with cross-functional teams in Agile environments with agile methodologies, utilizing tools like Jira, Git, and Jenkins to manage tasks, version control, and deployments effectively.",
     github: "https://gitlab.com/sshubhamkr12",
     resume:
-      "https://drive.google.com/file/d/1F_jp2_Y2XTkPMiaox6HUke2mLgsDSyU7/view?usp=drivesdk",
+      "https://drive.google.com/file/d/1Ix0BrWZxrf28lu6lbl03IsnYf9NSYMgU/view?usp=drive_link",
     linkedin: "https://www.linkedin.com/in/shubham-kumar-969b6a2a2",
     twitter: "https://twitter.com/ShubhamKumar",
     insta: "https://www.instagram.com/shub_hamk_umar_/",
